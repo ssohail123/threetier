@@ -49,8 +49,8 @@ The `docker-compose.yaml` file, included in this repository, defines the service
 To start the application, run the following command in the directory containing the `docker-compose.yaml` file:
 
 
+```bash
+docker-compose up -d
+
 
 note: update the record and recordlist files in this files developers have menitoned the localhost please change it to your ip address
-
-```bash
-docker-compose up --build
