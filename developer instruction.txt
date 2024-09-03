@@ -1,0 +1,12 @@
+Prerequisite
+Install npm
+
+Start Server:
+cd mern/server
+npm install
+npm start
+
+Start Client
+cd mern/client
+npm install
+npm run dev
